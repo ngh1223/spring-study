@@ -1,4 +1,4 @@
-package com.ngh
+package com.ngh.api
 
 import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication
